@@ -1058,7 +1058,7 @@ MPos = CFrame.new(620.6344604492188,78.93644714355469, -12581.369140625)
 SP = "Default"
 elseif SelectMaterial == "Dragon Scale" then
 MMon = "Dragon Crew Archer"
-MPos = CFrame.new(6594,383,139)
+MPos = CFrame.new(6594,383,139)8
 SP = "Default"
 elseif SelectMaterial == "Gunpowder" then
 MMon = "Pistol Billionaire"
@@ -2312,7 +2312,7 @@ ImageButton.Parent = ScreenGui
 ImageButton.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 ImageButton.Position = UDim2.new(0.10615778, 0, 0.16217947, 0)
 ImageButton.Size = UDim2.new(0.0627121851, 0, 0.107579626, 0)
-ImageButton.Image = "rbxassetid://16198560721"
+ImageButton.Image = "rbxassetid://16206965743"
 
 UICorner.CornerRadius = UDim.new(0, 30)
 UICorner.Parent = ImageButton
